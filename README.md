@@ -15,7 +15,11 @@ THAT IS SIMON LANGUAGE (Slang).
  
  
 Hello world!
+
 [Debug] New var: test - pidor hui sosi chmo
+
 [Debug] New var: chmo - zig hi
+
 zig hi
+
 pidor hui sosi chmo
