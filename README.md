@@ -2,7 +2,7 @@
 Simon language (Был написан за 2 часа на стриме).
 
 # Как скомпилить?
-gcc untitled.c functions.c -o slan
+gcc untitled.c functions.c -o slang
 
 # Как запустить скрипт?
 $ ./slang hello.s
